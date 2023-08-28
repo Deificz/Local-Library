@@ -7,3 +7,4 @@ Tech stack used :
   -  Node.js
   -  Express.js
   -  Pug
+  -  MongoDB & Mongoose
